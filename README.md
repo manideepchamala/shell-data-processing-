@@ -38,6 +38,8 @@
  - There are two dashes when the flag is more than one letter. for Example: ``` --version-sort  ```
  - ``` cat ``` command is used to show the content of a document,append and also creating a document.
  
+ - ![Bash Commands](https://github.com/manideepchamala/shell-data-processing-/blob/master/Screenshot%20(66).png)
+ 
  
  
 
