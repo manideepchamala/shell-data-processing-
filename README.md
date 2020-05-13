@@ -12,7 +12,7 @@
 - Next step was to return the page text with the help of curl command : 
 ``` curl "https://en.wikipedia.org/wiki/Cricket_ball" ``` 
 - Then i had to return the page text and copied the output to the file with the help of curl command :
-``` curl "https://en.wikipedia.org/wiki/Cricket_ball" -0 data.txt ```
+``` curl "https://en.wikipedia.org/wiki/Cricket_ball" -O data.txt ```
 - Now to get out of the powershell, we use a command :
 ``` exit ```
 
